@@ -1,0 +1,9 @@
+# ninja log v6
+1048	1155	1726440255153746047	AnalisisDeAlgoritmos	f5ab85fc68245137
+2	1039	1726440254107765034	CMakeFiles/AnalisisDeAlgoritmos.dir/main.cpp.o	7792489367c76d
+0	41	1726440416114382471	build.ninja	187df860c0191dd6
+2	1048	1726440254107765034	CMakeFiles/AnalisisDeAlgoritmos.dir/src/ListaEnlazadaOrdenada.cpp.o	1cff3b0518200c51
+2	770	1726440454238717089	CMakeFiles/AnalisisDeAlgoritmos.dir/src/BinarySearchTree.cpp.o	8a23cafce49a96da
+3	664	1726440537944438224	CMakeFiles/AnalisisDeAlgoritmos.dir/main.cpp.o	7792489367c76d
+2	677	1726440572217423184	CMakeFiles/AnalisisDeAlgoritmos.dir/src/BinarySearchTree.cpp.o	8a23cafce49a96da
+677	795	1726440572892412200	AnalisisDeAlgoritmos	8eda373e9a41fa20
